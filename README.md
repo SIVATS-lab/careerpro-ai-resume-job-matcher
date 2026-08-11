@@ -248,54 +248,40 @@ Add screenshots of the major pages here:
 
 ### 🏠 Home Page
 
-```text
-<img width="1813" height="933" alt="image" src="https://github.com/user-attachments/assets/82505143-43cb-4a71-937d-dac6aed96ab2" />
+<img width="1736" height="960" alt="image" src="https://github.com/user-attachments/assets/0125b583-2603-420e-8b51-af9e055025a1" />
 
-```
 
 ### 📊 Dashboard
 
-```text
-<img width="1901" height="952" alt="image" src="https://github.com/user-attachments/assets/f77e542e-4858-4235-a42f-c6739f7b7ece" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/2734c521-d294-44f9-8d59-25d2be25bec6" />
 
-```
 
 ### 📝 Resume Builder
 
-```text
-<img width="1906" height="959" alt="image" src="https://github.com/user-attachments/assets/9680063a-35d6-4d24-af14-9493a4f1f4ce" />
+<img width="1913" height="964" alt="image" src="https://github.com/user-attachments/assets/b6d5ea93-62d3-47b3-b793-de07e3b0c6c8" />
 
-```
 
 ### 📈 ATS Scanner
 
-```text
-<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/24ee691c-93ba-486f-9b22-5397f11abf3c" />
+<img width="1312" height="867" alt="image" src="https://github.com/user-attachments/assets/99f4e939-4bcd-4d39-a376-a1dc319d6331" />
 
-```
 
 ### 🎯 Job Matcher
 
-```text
-<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/00fca663-eda7-4aa6-bd8e-e17bb05ffb3f" />
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/635e2d87-3eb2-4d37-bf7d-30ddfd7041d3" />
 
-```
 
 ### 🤖 AI Chatbot
 
-```text
-<img width="448" height="690" alt="image" src="https://github.com/user-attachments/assets/09594c02-a8c4-42cc-81b2-3db309cb9857" />
+<img width="495" height="825" alt="image" src="https://github.com/user-attachments/assets/ef36abbc-11f8-427f-adc3-d66deaaa5934" />
 
-```
 
 ### 🛠️ Admin Dashboard
 
-```text
-<img width="1905" height="955" alt="image" src="https://github.com/user-attachments/assets/65d93f3f-e3df-42ec-a473-b91cbe953787" />
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/14a19cb3-b8e4-4fa3-9fd0-66378cc58a40" />
 
-```
+<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/9d5d3790-b5f1-478d-8019-b387d14dab5d" />
 
----
 
 ## 🎯 Project Objectives
 
@@ -312,13 +298,10 @@ The main objectives of CareerPro AI are:
 
 ## 🔮 Future Improvements
 
-* 📄 PDF resume export
 * 🎨 Additional resume templates
 * 🔗 LinkedIn profile integration
 * 📧 Email notifications
 * ☁️ Cloud deployment
-* 📱 Improved mobile responsiveness
-* 🧠 Advanced AI job recommendations
 * 📊 Resume analytics
 * 🔍 More advanced ATS analysis
 * 🔑 Improved authentication and authorization
